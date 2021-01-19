@@ -18,11 +18,14 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 
 
 #### Development Stacks
-✔️ Reactjs, Nextjs, Gatsby, Redux & toolkit, Hooks, Apollo
+✔️ Reactjs, Nextjs, Gatsby, Redux & toolkit, Hooks, Apollo 
+<br />
 ✔️ Nodejs, Expressjs, Nestjs, Prisma, Sequelize, TypeORM, Graphql, Hasura
+<br />
 ✔️ PHP, Laravel, Wordpress, Magento, Shopify, Vendureio
+<br />
 ✔️ Jenkins, Codefresh, Git, Docker, Kubernates, AWS
-
+<br />
 ### Skills and Tools:
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
