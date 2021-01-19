@@ -14,11 +14,14 @@ I can't acclimate with 99.(9)%, Only by sending 100% perfect project my Clients!
 Are you looking for an honest and superior senior full stack developer?<br>
 Please contact me, I will do for you ASAP and my best to create a "Best Quality" project for my customers.
 </p>
-- : <a href="https://join.skype.com/invite/iJSKNg1i8ZG5">Skype</a>, <a href="mailto:mernstackdev729@gmail.com">Gmail</a>.
 
 
 #### Development Stacks
 ✔️ Reactjs, Nextjs, Gatsby, Redux & toolkit, Hooks, Apollo 
+<br />
+✔️ Vue, Vuex, Vuetify, Nuxt, Vuepress, Gridsome, Quasar, Eagle.js
+<br />
+✔️ Angular, RxJs, NgRX, Angular playground
 <br />
 ✔️ Nodejs, Expressjs, Nestjs, Prisma, Sequelize, TypeORM, Graphql, Hasura
 <br />
@@ -26,6 +29,12 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 <br />
 ✔️ Jenkins, Codefresh, Git, Docker, Kubernates, AWS
 <br />
+
+#### How to contact
+<a href="https://join.skype.com/invite/iJSKNg1i8ZG5">Skype</a>
+<br>
+<a href="mailto:mernstackdev729@gmail.com">Gmail</a>.
+
 ### Skills and Tools:
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
