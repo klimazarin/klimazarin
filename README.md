@@ -7,7 +7,6 @@
 
 ## Welcome to my profile. 
 
--@- Dream is yours, Practice is mine. -@-
 <p style = "margin-left: 30px">
 Deep understanding of Mathematics and programming algorithm.<br>
 6+ years of development experience on projects ranging from small size applications through complex enterprise solutions are taken.<br>
@@ -15,7 +14,7 @@ I can't acclimate with 99.(9)%, Only by sending 100% perfect project my Clients!
 Are you looking for an honest and superior senior full stack developer?<br>
 Please contact me, I will do for you ASAP and my best to create a "Best Quality" project for my customers.
 </p>
-- How to reach me: <a href="https://join.skype.com/invite/ojEURm8GOQPH">Skype</a>, <a href="mailto:darkhorse0723@outlook.com">Email-Outlook</a>, <a href="mailto:darkhorse0723@eclipso.email">Email-Eclipso</a>, <a href="mailto:darkhorse0723@gmail.com">Gmail</a>.
+- : <a href="https://join.skype.com/invite/iJSKNg1i8ZG5">Skype</a>, <a href="mailto:mernstackdev729@gmail.com">Gmail</a>.
 
 
 #### Website Development
