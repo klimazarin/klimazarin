@@ -17,17 +17,11 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 - : <a href="https://join.skype.com/invite/iJSKNg1i8ZG5">Skype</a>, <a href="mailto:mernstackdev729@gmail.com">Gmail</a>.
 
 
-#### Website Development
-- <b>Front-end</b> : Vuejs | Reactjs | Bootstrap
-- <b>Back-end</b> : Node.js | Django | Ruby on Rails | Laravel | Symfony | CodeIgniter
-- <b>Database</b> : Mysql | MongoDB | PostgreSQL
-- <b>CMS</b> : Wordpress | Shopify
-- Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc), Firebase, Heroku, Trello, Pusher and so on
-#### Mobile Application Development
-- Android, iOS, iPad
-- Flutter/Dart
-- React Native
-- SQLite, Google Firebase
+#### Development Stacks
+✔️ Reactjs, Nextjs, Gatsby, Redux & toolkit, Hooks, Apollo
+✔️ Nodejs, Expressjs, Nestjs, Prisma, Sequelize, TypeORM, Graphql, Hasura
+✔️ PHP, Laravel, Wordpress, Magento, Shopify, Vendureio
+✔️ Jenkins, Codefresh, Git, Docker, Kubernates, AWS
 
 ### Skills and Tools:
 
