@@ -19,8 +19,3 @@
 <br />
 ✔️ Jenkins, Codefresh, Git, Docker, Kubernates, AWS
 <br />
-
-#### How to contact
-<a href="https://join.skype.com/invite/iJSKNg1i8ZG5">Skype</a>
-<br>
-<a href="mailto:mernstackdev729@gmail.com">Gmail</a>
