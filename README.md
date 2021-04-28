@@ -9,5 +9,5 @@
 <br />
 ✔️ PHP, Laravel, Wordpress, Magento, Shopify, Vendureio
 <br />
-✔️ Jenkins, Codefresh, Git, Docker, Kubernates, AWS
+✔️ Jenkins, Codefresh, Git, Docker, Kubernetes, AWS
 <br />
